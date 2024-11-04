@@ -118,7 +118,7 @@ const App = () => {
               >
                 <div className="flex gap-3">
                   <img
-                    src="/profile1.jpg"
+                    src="/profile.jpg"
                     className="w-12 rounded-[50%]"
                     alt=""
                   />
